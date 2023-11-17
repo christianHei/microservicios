@@ -1,2 +1,2 @@
 # microservicios
-microservicios, spring boot
+spring boot, gradle, swagger
